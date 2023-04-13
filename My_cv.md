@@ -4,7 +4,7 @@
 
 * Номер телефона: [+7(902)048-21-21](89020488121)
 * Вконтакте: [Алтарев Александр](https://vk.com/alaisev)
-*Email: [altarev123456@mail.ru](altarev123456@mail.ru)
+* Email: [altarev123456@mail.ru](altarev123456@mail.ru)
 
 
 ## Обо мне 
