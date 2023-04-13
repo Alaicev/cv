@@ -58,10 +58,10 @@
 
   **3D-модель.** Создание модели робототизированой животноводческой фермы 
 
-  <img src="./image/fer1.jpg" width=40% />
-  <img src="./image/fer2.jpg" width=40% />
-  <img src="./image/fer3.jpg" width=40% />
-  <img src="./image/fer4.jpg" width=40% />
+  <img src="./image/fer1.jpg" width=40%>
+  <img src="./image/fer22.jpg" width=40%>
+  <img src="./image/fer3.jpg" width=40%>
+  <img src="./image/fer4.jpg" width=40%>
 
 ------------------------------------------------
 
