@@ -33,7 +33,7 @@
 
   **Сайт.** Платформа для обучения студентов вузов и коледжей по обслуживанию техники специального назначения.
 
-  <img src="./image/VrT3.png" width=50% />
+  <img src="./Fotochki/VrT3.png" width=50%>
 
 ------------------------------------------------
 
@@ -42,7 +42,7 @@
 
   **Сайт.** Платформа для обучения студентов вузов и сузов по устройству и работе с сложными техническими машинами 
 
-  <img src="./image/SerV1.png" width=50% />
+  <img src="./Fotochki/SerV1.png" width=50%>
 
 ------------------------------------------------
 
@@ -50,7 +50,7 @@
 
   **Сайт.** Платформа по созданию цифровых двойников сельскохозяйственных объектов 
 
-  <img src="./image/sectorDT.png" width=50% />
+  <img src="./Fotochki/sectorDT.png" width=50%>
   
 ------------------------------------------------
 
@@ -58,10 +58,10 @@
 
   **3D-модель.** Создание модели робототизированой животноводческой фермы 
 
-  <img src="./image/fer1.jpg" width=40%>
-  <img src="./image/fer22.jpg" width=40%>
-  <img src="./image/fer3.jpg" width=40%>
-  <img src="./image/fer4.jpg" width=40%>
+  <img src="./Fotochki/fer1.jpg" width=40%>
+  <img src="./Fotochki/fer22.jpg" width=40%>
+  <img src="./Fotochki/fer3.jpg" width=40%>
+  <img src="./Fotochki/fer4.jpg" width=40%>
 
 ------------------------------------------------
 
@@ -70,25 +70,25 @@
 
 * Свидетельство о государственной регистрации программы для ЭВМ № [2021666580](https://www.elibrary.ru/item.asp?id=47118670&ysclid=lge3p772mv905521853) "Программа для разработки виртуального тренажера трактора "Беларус-1523", Соавторы: Жданов Д.А., Наянов А.В., Гончаров Р.Д.
 
-  [<img src="./image/GrantBel.jpg" width=40% />](./image/GrantBel.jpg)
+  [<img src="./Fotochki/GrantBel.jpg" width=40%>](./Fotochki/GrantBel.jpg)
 
 * Свидетельство о государственной регистрации программы для ЭВМ № [2022619002](https://elibrary.ru/item.asp?id=48493961) "VR-ТРЕНАЖЕР. ДИАГНОСТИКА ПАТОЛОГИЧЕСКОГО СОСТОЯНИЯ МОЛОЧНОЙ ЖЕЛЕЗЫ У КРС", Соавторы: Гончаров Р.Д., Моргунова Н.Л., Лощинин С.О., Филатова А.В.
 
-  [<img src="./image/GrantKRS.jpg" width=40% />](./image/GrantKRS.jpg)
+  [<img src="./Fotochki/GrantKRS.jpg" width=40%>](./Fotochki/GrantKRS.jpg)
 
 ## Достижения 
 
 * Победитель и грантополучатель конкурса умник архипелаг "Разработка приложения дополненной реальности для обучения техническому обслуживанию сельскохозяйственной техники" в 2021 году
 
-  [<img src="./image/AltarevAA_page-0001.jpg" width=40% />](./image/AltarevAA_page-0001.jpg)
+  [<img src="./Fotochki/AltarevAA_page-0001.jpg" width=40%>](./Fotochki/AltarevAA_page-0001.jpg)
 
 * Прошел курс повышения квалификации "Коммерциализация инновационных проектов" при АНО "ФИРОН
 
-  [<img src="./image/certificate_pages-to-jpg-0001.jpg" width=40%>](./image/certificate_pages-to-jpg-0001.jpg)
+  [<img src="./Fotochki/certificate_pages-to-jpg-0001.jpg" width=40%>](./Fotochki/certificate_pages-to-jpg-0001.jpg)
 
 * Благодарность за активное сотрудничество и помощь в проведении Всероссийского конкурса АгроНТИ 2022 по напраравлению "АгроРоботы"
 
-  [<img src="./image/Altarev_2022_page-0001.jpg" width=40% />](./image/Altarev_2022_page-0001.jpg)
+  [<img src="./Fotochki/Altarev_2022_page-0001.jpg" width=40%>](./Fotochki/Altarev_2022_page-0001.jpg)
 
 * Эксперт по Всероссийским соревнования WordSkills Russia в 2020 году по напраплению VR/AR
 
