@@ -1,4 +1,4 @@
-# cv
+# Резюме
 
 ## [Алтарев](https://alaicev.github.io/cv/My_cv)
 
