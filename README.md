@@ -4,4 +4,4 @@
 
 ## [Жданов](https://alaicev.github.io/cv/Zhdanov)
 
-## [Исаев](https://alaicev.github.io/cv/isaev)
+## [Исаев](https://alaicev.github.io/cv/Isaev)
