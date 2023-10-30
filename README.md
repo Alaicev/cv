@@ -6,5 +6,5 @@
 
 ## [Исаев](https://alaicev.github.io/cv/Isaev)
 
-## [Гончаров](https://alaicev.github.io/Goncharov)
+## [Гончаров](https://alaicev.github.io/cv/Goncharov)
 
